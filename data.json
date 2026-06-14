@@ -1,1 +1,1 @@
-{"users": [{"name": "Ted Karani", "email": "ted@email.com", "projects": []}], "projects": [{"title": "Crooksie", "description": "cooking app", "due_date": "July 14th 2026", "owner": "Ted Karani", "tasks": []}], "tasks": []}
+{"users": [{"name": "Ted Karani", "email": "ted@email.com", "projects": []}, {"name": "mumbi", "email": "bethmumb@gmai.com", "projects": []}], "projects": [{"title": "Crooksie", "description": "cooking app", "due_date": "July 14th 2026", "owner": "Ted Karani", "tasks": []}], "tasks": []}
