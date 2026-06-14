@@ -1,0 +1,28 @@
+
+{
+    "users":[
+        {
+            "name": "Ted karani",
+            "email": "tedkarani2@gmail.com",
+            "projects": []
+        }
+       
+    ],
+    "projects": [
+        {
+            "title": "Crooksie",
+            "project_description": "cooking app",
+            "due_date": "July 14th 2026",
+            "owner": "Ted karani",
+            "tasks": []
+        }
+    ],
+    "tasks": [
+        {
+            "title": "Add ingredients and basket feature",
+            "assigned_to": "Ted karani",
+            "status": "complete",
+            "project": "Crooksie"
+        }
+    ]
+}

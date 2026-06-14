@@ -190,9 +190,9 @@ def complete_task(args):
             if task.title == args.title:
                 task.complete()
                 return
-        print("❌ Task not found.")
+        print("Task not found.")
     else:
-        print("❌ User not found.")
+        print(" User not found.")
 
 parser = argparse.ArgumentParser(description="User Task Manager CLI")
 subparsers = parser.add_subparsers()
